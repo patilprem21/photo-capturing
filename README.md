@@ -1,4 +1,4 @@
-# 📸 Photo Capturing Project
+# 📸 Simple Photo Capturing Project
 
 Welcome to the **Photo Capturing Project**! This project is designed to help you capture photos directly from your webcam, even on sites without SSL.
 
@@ -21,8 +21,8 @@ This project is licensed under the [GPL-3.0 License](LICENSE). Feel free to use 
 Contributions are welcome! If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
 
 ## 📫 Contact
-For any inquiries or feedback, you can reach me at [your-email@example.com].
+For any inquiries or feedback, you can reach me at [pprem2802@gmail.com].
 
 ---
 
-Thank you for checking out the Photo Capturing Project! Enjoy capturing your moments! 📷
+Thank you for checking out the Photo Capturing Project! Have a Nice Day!! 📷
